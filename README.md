@@ -1,4 +1,4 @@
-# RTAL-EAI-006-Digital-Sampling-Synthesizer-DSS
+# RTAL-EAI-006-Digital-Sampling-Synthesizer
 
 > **A multi-processor digital sampling synthesizer inspired by the architecture and sonic philosophy of the Korg DSS-1**
 
