@@ -2,7 +2,7 @@
 
 > **A multi-processor digital sampling synthesizer inspired by the architecture and sonic philosophy of the Korg DSS-1**
 
-<![RTAL DSS](docs/images/rtal-dss-hero.png)
+![RTAL DSS](docs/images/rtal-dss-hero.png)
 
 ---
 
@@ -75,8 +75,7 @@ A single ESP32-S3 can already perform a surprising amount of real-time audio pro
 
 RTAL DSS therefore distributes the workload across multiple processors.
 
-<!-- Architecture image -->
-<![RTAL DSS System Architecture](docs/images/rtal-dss-architecture.png)
+![RTAL DSS System Architecture](docs/images/rtal-dss-architecture.png)
 
 ### ESP32-S3 #1 — Voice Engine A
 
@@ -497,8 +496,7 @@ The critical rule is that digital artifacts must be created **before the filter*
 
 ## Development roadmap
 
-<!-- Roadmap image -->
-<!-- ![RTAL DSS Development Roadmap](docs/images/rtal-dss-roadmap.png) -->
+<![RTAL DSS Development Roadmap](docs/images/rtal-dss-roadmap.png)
 
 ### Phase 1 — Filter test platform
 
